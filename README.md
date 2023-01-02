@@ -1,5 +1,3 @@
 #Notas 
 
-Este es un repositorio de pruebas
-
-untrack
+Este es el repositorio inicial de mi proyecto 
